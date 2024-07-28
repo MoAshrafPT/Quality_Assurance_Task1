@@ -35,6 +35,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: Best suited for web application testing across different browsers and platforms.
    - **Advantages**: Flexibility, community support, and language support.
    - **Limitations**: Requires technical skills for setup and maintenance.
+   - **Example**: A company uses Selenium to automate the testing of its web-based customer management system, ensuring it works correctly on Chrome, Firefox, and Safari.
 
 2. **JUnit**
    - **Description**: JUnit is a popular testing framework for Java applications, widely used for unit testing.
@@ -42,6 +43,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: Primarily for unit testing in Java applications.
    - **Advantages**: Seamless integration with Java development tools, supports TDD.
    - **Limitations**: Primarily focused on unit testing, not suitable for end-to-end tests.
+   - **Example**: Developers use JUnit to write unit tests for individual components of a large-scale banking application, ensuring each module works as expected. 
 
 3. **Cypress**
    - **Description**: Cypress is a modern end-to-end testing framework designed for web applications.
@@ -49,6 +51,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: End-to-end testing for modern web applications.
    - **Advantages**: User-friendly interface, fast and reliable tests.
    - **Limitations**: Limited support for browsers other than Chrome.
+   - **Example**: A startup uses Cypress to test their new single-page application, checking that all user interactions work smoothly.
 
 4. **TestNG**
    - **Description**: TestNG is a testing framework inspired by JUnit but with added functionalities like parallel testing and detailed test configuration.
@@ -56,6 +59,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: Suitable for a wide range of testing types, including unit, functional, and integration testing.
    - **Advantages**: Flexible configuration, powerful features like parallel execution.
    - **Limitations**: More complex setup compared to JUnit.
+   - **Example**: An enterprise uses TestNG to run parallel tests on their e-commerce platform, speeding up the testing process significantly.
 
 5. **Jest**
    - **Description**: Jest is a delightful JavaScript testing framework with a focus on simplicity. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte.
@@ -63,6 +67,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: Ideal for testing JavaScript and front-end frameworks.
    - **Advantages**: Easy setup, fast execution, great for front-end testing.
    - **Limitations**: Limited to JavaScript/TypeScript environments.
+   - **Example**: A web development team uses Jest to ensure their React components render correctly and maintain functional integrity over time.
 
 6. **Puppeteer**
    - **Description**: Puppeteer is a Node.js library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. It is great for automated testing of web applications.
@@ -70,6 +75,7 @@ Automated testing frameworks allow tests to be executed automatically, without h
    - **Use Cases**: Automating browser tasks, end-to-end testing for web applications.
    - **Advantages**: Full control over Chrome/Chromium, powerful for end-to-end testing.
    - **Limitations**: Limited to Chromium-based browsers.
+   - **Example**: A digital marketing company uses Puppeteer to automate the generation of reports by taking screenshots of data visualizations on their web dashboard.
 
 ## Manual Testing Frameworks
 
@@ -103,6 +109,7 @@ Manual testing frameworks involve human testers executing test cases without the
    - **Use Cases**: Test case management for manual testing activities.
    - **Advantages**: Comprehensive test management, integration with issue tracking systems.
    - **Limitations**: Requires manual effort to execute tests.
+   - **Example**: A QA team uses TestLink to document and track the execution of test cases for a new mobile application.
 
 2. **PractiTest**
    - **Description**: PractiTest is an end-to-end test management tool that supports both manual and automated testing.
@@ -110,6 +117,7 @@ Manual testing frameworks involve human testers executing test cases without the
    - **Use Cases**: Managing both manual and automated tests in a single platform.
    - **Advantages**: Centralized test management, detailed reporting.
    - **Limitations**: Can be complex to set up and use initially.
+   - **Example**: A software company uses PractiTest to manage their entire testing lifecycle, from planning to execution and reporting.
 
 3. **Zephyr**
    - **Description**: Zephyr is a comprehensive test management tool that integrates with JIRA, providing robust support for manual testing.
@@ -117,6 +125,7 @@ Manual testing frameworks involve human testers executing test cases without the
    - **Use Cases**: Test management for JIRA users.
    - **Advantages**: Tight integration with JIRA, supports Agile methodologies.
    - **Limitations**: Can be costly for large teams or enterprises.
+   - **Example**: An Agile development team uses Zephyr to plan and track their testing efforts, ensuring all user stories are thoroughly tested.
 
 ## Conclusion
 
