@@ -1,5 +1,31 @@
 # Testing Frameworks: Automated and Manual
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Automated Testing Frameworks](#automated-testing-frameworks)
+   - [Benefits of Automated Testing](#benefits-of-automated-testing)
+   - [Drawbacks of Automated Testing](#drawbacks-of-automated-testing)
+   - [Use Cases](#use-cases)
+   - [Popular Automated Testing Frameworks](#popular-automated-testing-frameworks)
+     - [Selenium](#selenium)
+     - [JUnit](#junit)
+     - [Cypress](#cypress)
+     - [TestNG](#testng)
+     - [Jest](#jest)
+     - [Puppeteer](#puppeteer)
+3. [Manual Testing Frameworks](#manual-testing-frameworks)
+   - [Benefits of Manual Testing](#benefits-of-manual-testing)
+   - [Drawbacks of Manual Testing](#drawbacks-of-manual-testing)
+   - [Use Cases](#use-cases-1)
+   - [Popular Manual Testing Frameworks](#popular-manual-testing-frameworks)
+     - [TestLink](#testlink)
+     - [PractiTest](#practitest)
+     - [Zephyr](#zephyr)
+4. [Conclusion](#conclusion)
+5. [References](#references)
+
+## Introduction
+
 Testing frameworks are essential tools in software development, ensuring the functionality, performance, and reliability of software applications. They can be categorized into automated and manual testing frameworks, each serving distinct purposes and having unique advantages. This article explores both types, their benefits, and popular frameworks used in the industry.
 
 ## Automated Testing Frameworks
